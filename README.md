@@ -19,7 +19,6 @@
 <h1 align="center">Connect with Me</h1>
 <p align="center">
  Linkedin:https://www.linkedin.com/in/wajee-ul-hassan-8aa80b271/
- Email:wajeex001@gmail.com
 </p>
 
 <h1 align="center">Example Work</h1>
