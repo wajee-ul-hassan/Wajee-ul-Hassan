@@ -22,8 +22,6 @@
 </p>
 
 <h1 align="center">Example Work</h1>
-<p align="center">Check out my portfolio for some of my projects and coding examples:</p>
+<p align="center">Check out some of my projects and coding examples:</p>
 
-<p align="center">
-  <a href="https://example.com">Portfolio</a>
-</p>
+
