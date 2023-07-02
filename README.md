@@ -2,7 +2,7 @@
 <h3 align="center">Passionate BS CS student exploring the vast world of programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajee-ul-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="wajee-ul-hassan" /> </p>
-<h3 align="left">Connect with me:</h3>
+
 - Linkedin: [https://www.linkedin.com/in/wajee-ul-hassan-8aa80b271/](https://www.linkedin.com/in/wajee-ul-hassan-8aa80b271/)
 - Email: [wajeex001@gmail.com](wajeex001@gmail.com)
 
