@@ -1,6 +1,13 @@
 <h1 align="center">About Me</h1>
 <p align="center">Passionate BS CS student exploring the vast world of programming.</p>
 
+<!-- Add the Visitor Badge code below -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name" alt="Visitor Badge">
+</p>
+
+<!-- Your existing content below -->
+
 <h1 align="center">Skills</h1>
 <p align="center">
   Backend Developer | Application Developer
@@ -18,10 +25,8 @@
 
 <h1 align="center">Connect with Me</h1>
 <p align="center">
- Linkedin:https://www.linkedin.com/in/wajee-ul-hassan-8aa80b271/
+  Linkedin: https://www.linkedin.com/in/wajee-ul-hassan-8aa80b271/
 </p>
 
 <h1 align="center">Example Work</h1>
 <p align="center">Check out some of my projects and coding examples:</p>
-
-
