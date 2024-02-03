@@ -1,10 +1,7 @@
 <h1 align="center">About Me</h1>
 <p align="center">Passionate BS CS student exploring the vast world of programming.</p>
 
-<!-- Add the Shields.io Viewer Count Badge below -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views">
-</p>
+
 
 <!-- Your existing content below -->
 
